@@ -2,9 +2,12 @@
 
 =======
 
-# TO-DO-LIST-app
+# Javascript-Best-Practices-TO-DO-list-app
 
-The goal of this project is to learn the use of webpack to handle JS and ES6 to write modular JS
+The goal of this project is to learn; 
+- Giving feedback on someone else's project based on clean code best practices.
+- Apply knowledge gained in the past when giving a code review.
+- How to perform a simple code review for a coding partner.
 
 ## Built With
 
@@ -14,10 +17,6 @@ The goal of this project is to learn the use of webpack to handle JS and ES6 to 
 - ES6
 - webpack
 
-## Live Demo
-
-[Live Demo Link](https://jonahkayizzi.github.io/TO-DO-LIST-app/)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -26,8 +25,8 @@ To get a local copy up and running follow these simple example steps.
 
 run the following commands in your terminal
 
-- git clone https://github.com/JonahKayizzi/TO-DO-LIST-app.git
-- cd webpack
+- git clone https://github.com/JonahKayizzi/Javascript-Best-Practices-TO-DO-list-app.git
+- cd Javascript-Best-Practices-TO-DO-list-app
 - git checkout main
 
 ## Author
@@ -40,7 +39,7 @@ run the following commands in your terminal
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/JonahKayizzi/TO-DO-LIST-app/issues).
+Feel free to check the [issues page](https://github.com/JonahKayizzi/Javascript-Best-Practices-TO-DO-list-app/issues).
 
 ## Acknowledgments
 
