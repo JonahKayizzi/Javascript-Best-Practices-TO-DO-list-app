@@ -1,11 +1,10 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 # Javascript-Best-Practices-TO-DO-list-app
 
 The goal of this project is to learn; 
 - Giving feedback on someone else's project based on clean code best practices.
 - Apply knowledge gained in the past when giving a code review.
 - How to perform a simple code review for a coding partner.
-
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ## Built With
 
